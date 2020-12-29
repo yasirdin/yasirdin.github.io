@@ -1,0 +1,73 @@
+==================================================================
+https://keybase.io/yasirdin
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.yasirdin.net
+  * I am yasirdin (https://keybase.io/yasirdin) on keybase.
+  * I have a public key with fingerprint FA9D E7DE B53D 891A BA05  5F99 33E9 9FF7 6B55 0E12
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012023a97586a2c76d313e4ddd06f4bfe64227a98625e5918b7dcbe94654b9fe85080a",
+      "fingerprint": "fa9de7deb53d891aba055f9933e99ff76b550e12",
+      "host": "keybase.io",
+      "key_id": "33e99ff76b550e12",
+      "kid": "01018c678077b82e8641da64cac6a17db84d5f379c877aa1e828da921a1d904347580a",
+      "uid": "a2df8ae58259afc0e4fee225903bbc19",
+      "username": "yasirdin"
+    },
+    "service": {
+      "hostname": "www.yasirdin.net",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1609265655,
+  "expire_in": 157680000,
+  "prev": "f67945135106476e00424f6ec61a3c7525361832a7ef58e24cde58c967012cd4",
+  "seqno": 12,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owFtUmtMFFcYXV4iYJXyWCxCiYM1RinM+7GplUZKA1W2iQWpJdncmbmzO0Vmlt1l
+t0hFqKENlgpSDAIFijRiWpC3FCJEIVCrRFMUQmMoiQlVhGIj+MAq6SyRf71/br7v
+nnPuOfd+Za956dZ7ELP1TzNTNwZ5XJ/ldaY5W2gewqtiLmLIQzLh6gYPi9DuMGXK
+ImJAUAxHcQJwDMXSABcYWiQwApKiKKK0RPISpEkcZwDH0jgFKQ5jeUYUeMiRNEXy
+nARZCmVRgMQgkqyYoc1qkxWHJisBToSMCHmKEFkOAzxAKUriOIKAHCdJDM1TFAox
+XCNaVLuboZnjgR3GyqrW0wrTqr3/wa/5RjFWoBkWZRiexSFLk5gIaFIAAg0wRuRZ
+UqQkguEElmEAwCCLsyLgcAxgIoeSBKkFXvWdsyoHcFFiAaRYnOKAJKCQlCDEtQIl
+eF7AODfQDm0KyIIaOhfYZZsoK8jRGETrOmUBuh/WneQVwuVyxa6hYhXo0PhWm+pQ
+BfWwdmpxOKwGN9mRa11FQ970SsfEy4rGMWsEJ7TZZVVBDJiGFByyWxijUQ6nKZqi
+YhD4uVW2QZPsRlAMzaLacl8Dne4PoBkug6QwgsJQmmRoiKIkTko0FGgMEAJD4RRB
+YyyBAwZKFAtxUhC1+AJHM9pICCKJuKNlK6omjmtGgVkTtctmBThybBA56l/sSXjr
+PNbrIvVbvZ/X3vuze3dxeJ+PqWpt/nw83cOn8/cLXOtseytQV+e3ZaLl2Auvkk86
+rFhNdOs3M8+IqtEP7T/XDkgzzrQpdq550Of7oWKX/riBDzN6vJPQmHvp3+yb14cj
+S63OorufdaQktwuDbS+W9vTdX/rxUGlo+UoivpOJC1CvqQH1+qZ/3uR3113elFWn
+N/fe7bs5Vpow21x4UCo/aSxzVYlRAcZfPgJZTyxIcDT+e/WGn+q2D9w7kfR45Pwb
+Ba7A9tIQIXn4Ype1FfyQORHeY6/s8XsYry6O+5cs516tGSmCN5Rl78B9+qbq8Vpz
+wqO2v6i+HtZrQMnbwNZv3rZ/lE4cNvvOWGZLoidDPF8f+pW7k5hx6NFCUWNNw2DX
+qc2GM1uftc6ffN8H9j/s+TiKdlWtu2IwlnUXdJbEbdquZMwEWwq+CL6RqivPmpyf
+D+1bOBCw49KTFXg2/0zcEHXsavL8/Ejk1EYpdd4y/eXpU+Zbp99rfr7f0zd/Or0r
+LSKndN8JYbGipa13r3m8JoWLujOWlm89eL//bFfhxfTLexuOKzVdEd85jkxXH2ns
+3HWt5aXFafx2ZVdTwlcFaRUTSU/PXVBi353aURTiqkotjD83lLJU1hsRdMv5+NPl
+CxX6K+0dO29XWtcteMmVMX5LB0Tj2Mvb4a1k+WiIs78haYtvpy5EKPJsfJDuDIsP
+4yb/6G5LeHtuzwMx++/fgha/Ph/MfWBH1P8A
+=ijJ0
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/yasirdin
+
+==================================================================
